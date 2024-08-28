@@ -1,4 +1,4 @@
-# Optimizing-Sensor-Placement-using-NYC-Bicycle-Traffic-Data
+# Optimizing Sensor Placement Using NYC Bicycle Traffic Data
 
 This miniproject I did for Python in Data Science analyzes bicycle traffic data from the NYC_Bicycle_Counts_2016_Corrected.csv dataset, which contains 
 information on bike traffic across several bridges in New York City. The analysis focuses on answering the following key questions:
