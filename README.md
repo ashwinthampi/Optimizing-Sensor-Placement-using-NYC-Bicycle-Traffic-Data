@@ -9,5 +9,5 @@ information on bike traffic across several bridges in New York City. The analysi
    police officers on days with high traffic. Can the next day's weather forecast (including low/high temperature and precipitation) be used to predict
    the total number of bicyclists, helping the administration plan enforcement efforts more effectively?
 3. Predicting the Day of the Week: Using the number of bicyclists on the bridges, can we predict what day of the week it is (from Monday to Sunday)?
-4. 
+
 This project aims to provide insights that could assist in resource allocation and policy enforcement for urban transportation management in New York City.
